@@ -1,5 +1,0 @@
-[submodule "python3-idotmatrix-client"]
-	path = python3-idotmatrix-client
-	url = https://github.com/derkalle4/python3-idotmatrix-client/
-[submodule "idotmatrix"]
-	url = https://github.com/derkalle4/python3-idotmatrix-client/
